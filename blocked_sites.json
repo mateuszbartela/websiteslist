@@ -1,0 +1,7 @@
+{
+  "blocked_sites": [
+    "*://www.linkedin.com/*",
+    "*://*.facebook.com/*",
+    "*://*.instagram.com/*"
+  ]
+}
